@@ -19,5 +19,6 @@ Contents
 .. toctree::
 
    IDE
+   reportes
    usage
    api
