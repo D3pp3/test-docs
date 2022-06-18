@@ -1,5 +1,7 @@
 Mensajes
 =====================
 
-Introducción
+Introducción a mensajes
+-------------
+Configuración
 -------------
