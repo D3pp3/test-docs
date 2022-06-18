@@ -1,5 +1,4 @@
-Este espacio creado para documentar toda la informacion sobre 
-zeus-web
+Este espacio creado para documentar toda la informacion sobre zeus-web
 ===================================
 
 .. **Lumache** (/lu'make/) is a Python library for cooks and food lovers
