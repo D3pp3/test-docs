@@ -1,5 +1,5 @@
 Reportes
 =====================
 
-Configuracion
+Configuracion de Reportes
 -------------
