@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Documentacion'
+project = 'Home'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'Crudos PPS'
 
 release = '0.1'
 version = '0.1.0'
