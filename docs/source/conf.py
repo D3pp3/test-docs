@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Home'
-copyright = '2021, Graziella'
-author = 'Crudos PPS'
+copyright = '2022, Tribu Cruda Infosis'
+author = 'Tribu Cruda Infosis'
 
 release = '0.1'
 version = '0.1.0'
