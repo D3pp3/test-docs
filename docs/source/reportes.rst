@@ -13,7 +13,7 @@ Si esta todo bien configurado podemos continuar con el contenido de este apartad
 Otra configuración
 
 .. toctree:: 
-    ::caption: mensajes
+    mensajes
 
 
 Prueba otro titulo
