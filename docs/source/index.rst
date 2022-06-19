@@ -20,5 +20,6 @@ Contents
 
    IDE
    reportes
+   mensajes
    usage
    api
