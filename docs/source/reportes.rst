@@ -13,6 +13,7 @@ Si esta todo bien configurado podemos continuar con el contenido de este apartad
 Otra configuración
 
 .. toctree:: 
+    :maxdepth:: 1
     mensajes
 
 
